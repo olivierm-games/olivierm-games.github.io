@@ -2,7 +2,7 @@ google.com, pub-9551137458638084, DIRECT, f08c47fec0942fa0
 
 facebook.com, 313036267189336, DIRECT, c3e20eee3f780d68
 
- media.net, 8CUF0U632, DIRECT
+media.net, 8CUF0U632, DIRECT
 
 unity.com, 2433390, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
